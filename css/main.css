@@ -14,7 +14,7 @@ body {
     flex-wrap: wrap;
     border-style: solid;
     border-width: 5px;
-    background-color: rgb(168, 168, 168);
+    background-color: rgb(0, 0, 0);
 }
 
 .projectText {
@@ -57,6 +57,11 @@ body {
 
 @media (min-width:600px) {
     .chessBoard {
+        width: 600px;
+        height: 600px;
+    }
+
+    .projectInfo {
         width: 600px;
         height: 600px;
     }
