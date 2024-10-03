@@ -4,7 +4,7 @@
 ## to do 
 if i forgot anything please lmk (;
 - [x] Create the chessboard
-- [ ] Add the pieces to the chessboard
+- [x] Add the pieces to the chessboard
 - [ ] Configured all of the following pieces:
 - [ ] Pawn
 - [ ] Bishop
