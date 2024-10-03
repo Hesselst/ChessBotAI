@@ -1,6 +1,7 @@
 # Chess bot AI
 (project not finished and prob won't be finished anytime soon)
-
+# Credits
+Chessboard layout: [SimpleCodingTutorials](https://github.com/SimpleCodingTutorials/Tutorials/tree/main/ChessBoard)
 ## to do 
 if i forgot anything please lmk (;
 - [x] Create the chessboard
